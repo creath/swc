@@ -1,0 +1,9 @@
+Building SunWenCoin
+
+See doc/readme-qt.rst for instructions on building SunWenCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SunWenCoin.
+
+See doc/build-*.txt for instructions on building SunWenCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SunWenCoin.
